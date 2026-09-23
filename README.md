@@ -15,10 +15,10 @@
 
 ### 🌟 About Me & Overview
 
-- 🎓 **Specialization**: Artificial Intelligence & Machine Learning / Full-Stack Web Development.
-- 💻 **Core Expertise**: Designing reactive user interfaces (**React**, **Angular**), scalable backend REST APIs (**FastAPI**, **Node.js/Express**), and integrating **Generative AI & LLMs** (**Google Gemini AI**, **OpenAI**).
-- 🎮 **Passionate About**: Interactive gamification, telemetry analytics, data visualization, and predictive modeling.
-- 🚀 **Currently Building**: Expanding full-stack architectures and production-ready AI applications.
+- 🎓 **Specialization**: Artificial Intelligence & Machine Learning / Full-Stack Web Engineering.
+- 💻 **Core Expertise**: Responsive frontend interfaces (**React**, **Angular**), scalable backend RESTful APIs (**FastAPI**, **Node.js/Express**), and integrating **Generative AI & LLMs** (**Google Gemini AI**, **OpenAI**).
+- 🎮 **Passionate About**: Interactive gamification, telemetry analytics, data visualization, and predictive machine learning models.
+- 🚀 **Currently Building**: Expanding full-stack web architectures and production-ready intelligent applications.
 
 ---
 
@@ -46,7 +46,7 @@
 
 ---
 
-#### 🌍 2. [Smart AI Travel Planner](https://github.com/guru-vamshi1514/Smart-AI-Travel-Planner)
+#### 🌍 2. Smart AI Travel Planner
 > **An intelligent itinerary and travel scheduling system powered by Generative AI.**
 - **Personalized Day-Wise Plans**: Integrates **Google Gemini AI** to produce custom travel itineraries based on destination, duration, budget, travelers, and interests.
 - **Full-Stack Architecture**: Modern responsive frontend in **React.js & TypeScript**, backed by **FastAPI (Python)** REST API and **PostgreSQL**.
