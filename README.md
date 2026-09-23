@@ -56,7 +56,7 @@
 
 ---
 
-#### 🌍 2. Smart AI Travel Planner
+#### 🌍 2. [Smart AI Travel Planner](https://github.com/guru-vamshi1514/Smart-AI-Travel-Planner)
 > **An intelligent itinerary and travel scheduling system powered by Generative AI.**
 - **Personalized Day-Wise Plans**: Integrates **Google Gemini AI** to produce custom travel itineraries based on destination, duration, budget, travelers, and interests.
 - **Full-Stack Architecture**: Modern responsive frontend in **React.js & TypeScript**, backed by **FastAPI (Python)** REST API and **PostgreSQL**.
