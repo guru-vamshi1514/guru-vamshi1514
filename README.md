@@ -1,4 +1,4 @@
-﻿# Hi there, I'm Guru Vamshi 👋
+# Hi there, I'm Guru Vamshi 👋
 
 <p align="center">
   <b>🚀 Full-Stack Developer & AI/ML Engineer</b><br>
@@ -64,7 +64,7 @@
 
 ---
 
-#### 📈 4. [Student Performance Predictor](https://github.com/guru-vamshi1514/Student-Performance-Predictor)
+#### 🎓 4. [Student Performance Predictor](https://github.com/guru-vamshi1514/Student-Performance-Predictor)
 > **Machine learning predictive system for student academic performance risk analysis.**
 - Analyzes academic and behavioral features (study hours, attendance, historical marks) to predict student performance tiers (*At Risk*, *Average*, *Excellent*).
 - Built using **Logistic Regression** and machine learning pipelines with complete exploratory data analysis.
@@ -75,12 +75,26 @@
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guru-vamshi1514&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guru-vamshi1514&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=guru-vamshi1514&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guru-vamshi1514&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guru-vamshi1514&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 📬 Connect With Me
-- 🌐 **GitHub**: [@guru-vamshi1514](https://github.com/guru-vamshi1514)
+### 🤝 Connect With Me
 
+<p align="left">
+  <a href="https://github.com/guru-vamshi1514" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-guru--vamshi1514-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/guru-vamshi-5b22a22a6" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Guru%20Vamshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/_vamshi_vip" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-_vamshi__vip-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
